@@ -7,4 +7,6 @@ Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-🚀
+- Aprender a nivel avanzado JavaScript
+- Manejo eficiente de Git
+- POO con JavaScript
