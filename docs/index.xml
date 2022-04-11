@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Fabricio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://fabolc.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabolc.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeros conocimientos</title>
+      <link>https://fabolc.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabolc.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Me gustó la introducción, programando con Python. La parte de FrontEnd pues no se me da mucho con los estilos y la combinación de colores. En la parte del BackEnd lo que ahora me confundió fue modular.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://fabolc.github.io/my_launchx_blog/posts/intro/</link>
