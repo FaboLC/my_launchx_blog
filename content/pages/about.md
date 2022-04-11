@@ -9,13 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+> Estudie Licenciatura en Informatica Administrativa en Tabasco
+> Posteriormente al haber obtenido un poco de experiencia profesional, decidi continuar mis estudios con una maestria en Administración de TI
+> En febrero del 2022 termine un doctorado en ciencias de la computación, con un background en ciencia de datos, utilizando R y Python
+> Logre conseguir un empleo como programador usando Python y Web2py, sin embargo me aleje un poco de JavaScript por lo que aprovecharé el curso
+> que actualmente llevamos para recordarlo. 
 
